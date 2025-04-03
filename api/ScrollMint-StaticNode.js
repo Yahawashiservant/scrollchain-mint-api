@@ -1,3 +1,7 @@
+
+// Final trigger patch to re-sync Vercel
+
+
 // Trigger scrollmint redeploy
 
 export default async function handler(req, res) {
