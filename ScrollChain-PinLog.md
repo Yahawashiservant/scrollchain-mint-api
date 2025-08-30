@@ -11,3 +11,4 @@
 | 2025-08-30 | bafybeigoidrqxxryjamc7pz6jkgfjr33qvlcigadqhzci4mteza4elih74 | dao/proposals/register-cid.scroll | Storacha Console |
 | 2025-08-30 | bafybeigoidrqxxryjamc7pz6jkgfjr33qvlcigadqhzci4mteza4elih74 | dao/proposals/register-cid.scroll | Storacha Console |
 | 2025-08-30 | bafybeigoidrqxxryjamc7pz6jkgfjr33qvlcigadqhzci4mteza4elih74 | dao/proposals/register-cid.scroll | Storacha Console |
+| 2025-08-30 | bafybeigoidrqxxryjamc7pz6jkgfjr33qvlcigadqhzci4mteza4elih74 | dao/proposals/register-cid.scroll | Storacha Console |
